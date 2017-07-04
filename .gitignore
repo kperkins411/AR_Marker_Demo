@@ -298,3 +298,5 @@ examples/
 test/
 tests/
 doc/
+
+*.sdf

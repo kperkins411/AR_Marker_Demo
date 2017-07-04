@@ -1,0 +1,25 @@
+#version 330 core
+
+ //   in vec3 Color;
+    in vec2 UV;
+    out vec3 outColor;
+    uniform sampler2D myTextureSampler;
+    void main() 
+	{
+		//flip image right side up
+		vec2 flipped_texcoord = vec2(UV.x, 1.0 - UV.y);
+ 
+		//not working
+		outColor = texture2D( myTextureSampler, flipped_texcoord ).rgb;
+
+		//get rid of the reds
+		//outColor = vec3(0, outColor.g, outColor.b);
+
+		//swap the reds with the blues
+		//outColor = vec3(outColor.b, outColor.g, outColor.r);
+
+		//show only reds
+		//outColor = vec3(outColor.r, 0,0);
+
+   }
+

@@ -4,5 +4,9 @@ An Augmented Reality app that demonstrates basic computer vision concepts such a
  Here is a [ crude video ]( https://github.com/kperkins411/AR_Marker_Demo/blob/master/videodemo.mp4) that shows the application in action.  Here is a marker with the a 3D object (the CNU logo) rendered correctly on its surface plane.  Beside it is the marker with no image.<BR>
  <BR>
 
-<img src="https://github.com/kperkins411/AR_Marker_Demo/blob/master/marker_CNU.png" width="30%">
-<img src="https://github.com/kperkins411/AR_Marker_Demo/blob/master/marker_no_CNU.png" width="30%">
+<img src="https://github.com/kperkins411/AR_Marker_Demo/blob/master/marker_CNU.png" width="40%">
+<img src="https://github.com/kperkins411/AR_Marker_Demo/blob/master/marker_no_CNU.png" width="40%">
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="https://github.com/kperkins411/AR_Marker_Demo/blob/master/marker_CNU.png" width="40%">|  <img src="https://github.com/kperkins411/AR_Marker_Demo/blob/master/marker_no_CNU.png" width="40%">

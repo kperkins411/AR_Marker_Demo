@@ -7,6 +7,6 @@ An Augmented Reality app that demonstrates basic computer vision concepts such a
 <img src="https://github.com/kperkins411/AR_Marker_Demo/blob/master/marker_CNU.png" width="40%">
 <img src="https://github.com/kperkins411/AR_Marker_Demo/blob/master/marker_no_CNU.png" width="40%">
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
+Marker with overlaid 3D image              |  No 3D image (broken perimeter causes this)
+:-------------------------:|:------------:
 <img src="https://github.com/kperkins411/AR_Marker_Demo/blob/master/marker_CNU.png" width="40%">|  <img src="https://github.com/kperkins411/AR_Marker_Demo/blob/master/marker_no_CNU.png" width="40%">
